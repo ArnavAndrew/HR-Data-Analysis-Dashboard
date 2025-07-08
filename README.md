@@ -1,4 +1,3 @@
-# HR-Data-Analysis-Dashboard
 # HR Analytics Dashboard 📊 | Power BI
 
 This project is a comprehensive **HR Data Analysis Dashboard** built using **Power BI**, aimed at analyzing employee data to uncover patterns in attrition, job performance, demographics, and organizational structure. The dataset used is publicly available from **Kaggle**, cleaned and modeled inside Power BI for interactive insights.
